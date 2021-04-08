@@ -1,0 +1,50 @@
+body{
+    background: rgb(0, 0, 0);
+    font-family: Verdana;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.post1 {
+    color: white;
+    text-align: justify;
+    margin: 0;
+    margin-bottom: 15px;
+    text-transform: capitalize;
+    text-align: justify;
+}
+
+#nav1 {
+    text-align: center;
+    font-size: 25px
+}
+
+#title {
+    color: white;
+}
+
+a {
+    padding: 10px;
+    text-decoration: none;
+}
+
+
+.titulo {
+    font-size: 20px;
+}
+
+#secao01 {
+    justify-content: center;
+    color:antiquewhite;
+    text-align: center;
+}
+
+p {
+    color: antiquewhite;
+}
+
+footer ul li {
+    color: aliceblue;
+    text-align: center;
+    list-style: none;
+}
